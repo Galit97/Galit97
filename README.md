@@ -35,4 +35,5 @@ I build products end-to-end — from **product spec & UX messaging** to **design
 ## Contact
 
 📩 Email: online.galit@gmail.com  
+👩🏼‍💻 Website: https://galit-online.com/
 💼 LinkedIn: https://linkedin.com/in/galit-lioutrin-a1b592345
