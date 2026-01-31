@@ -25,10 +25,10 @@ I build products end-to-end — from **product spec & UX messaging** to **design
 
 ## Featured Projects
 
-- **Easy Choice** — https://github.com/Galit97/Easy-choice  
-- **Wedi App** — https://github.com/Galit97/wedi-app  
-- **Girls Aloud Jump Game** — https://github.com/Galit97/Icy-Tower  
-- **More on my GitHub** — https://github.com/Galit97
+- **Easy Choice** - https://github.com/Galit97/Easy-choice  
+- **Wedi App** - https://github.com/Galit97/wedi-app  
+- **Girls Aloud Jump Game** - https://github.com/Galit97/Icy-Tower  
+- **More on my GitHub** - https://github.com/Galit97
 
 
 
