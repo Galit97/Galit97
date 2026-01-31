@@ -3,9 +3,9 @@
 Freelance **Full-Stack Web Developer (React / Next.js)**.  
 I build products end-to-end — from **product spec & UX messaging** to **design handoff** and **development from scratch**.
 
-✅ Freelance developer
-✅ 1 year startup experience (worked on a **CRM system**)
-✅ Focus: UX-driven UI, clean code, and product thinking
+- Freelance developer
+- 1 year startup experience (worked on a **CRM system**)
+- Focus: UX-driven UI, clean code, and product thinking
 
 
 
