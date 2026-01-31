@@ -7,7 +7,7 @@ I build products end-to-end — from **product spec & UX messaging** to **design
 ✅ 1 year startup experience (worked on a **CRM system**)
 ✅ Focus: UX-driven UI, clean code, and product thinking
 
----
+
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@ I build products end-to-end — from **product spec & UX messaging** to **design
 **Automation & Tools:** Brevo, Airtable, Monday.com, ManyChat, Excel/Google Sheets, Google Drive  
 **AI Tools:** ChatGPT, Copilot, Gemini
 
----
+
 
 ## Featured Projects
 
@@ -30,7 +30,7 @@ I build products end-to-end — from **product spec & UX messaging** to **design
 - **Girls Aloud Jump Game** — https://github.com/Galit97/Icy-Tower  
 - **More on my GitHub** — https://github.com/Galit97
 
----
+
 
 ## Contact
 
