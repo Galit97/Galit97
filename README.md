@@ -25,9 +25,10 @@ I build products end-to-end, from **product thinking and UX messaging**, through
 
 ## Featured Projects
 
-- **Wedi App** — https://github.com/Galit97/wedi-app  
-- **Girls Aloud Jump Game** — https://github.com/Galit97/Icy-Tower
-- **Easy Choice** — https://github.com/Galit97/Easy-choice  
+- **Wedi bud** — https://wedi-bud.com/
+- **Girls Aloud Jump Game** — https://girlsaloud-jump.onrender.com/
+- **Easy Choice** — https://github.com/Galit97/Easy-choice
+- **Exam Flow** - https://examflow-v5tt.onrender.com/
 - **More on my GitHub** — https://github.com/Galit97
 
 
